@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../../assets/css/headerStyle.css" rel="stylesheet" type="text/css">
+    <link href="../../assets/css/legendStyle.css" rel="stylesheet" type="text/css">
+    <link href="../../assets/css/layoutStyle.css" rel="stylesheet" type="text/css">
+    <link href="../../assets/css/sliderStyle.css" rel="stylesheet" type="text/css">
+	<script src="../../assets/js/sliderScript.js"></script>
+    <title>CCSF Cafeteria</title>
+    <!-- this document resides in content/cafeteriaMenu folder -->
+</head>
+
+
+
+<body>
+    <div class="header">
+        <div class="logo">
+            <img src="../../assets/img/logoCCSFCafeteria.png" alt="">
+        </div>
+
+        <div class="header-content">
+            <h1>CCSF Cafeteria</h1>
+        </div>
+    </div>
+
+    <div class="nav-menu">
+        <ul>
+            <a href="../../content/cafeteriaMenu/index.html"><div class="pdng">
+                <li>Cafeteria Menu</li>
+            </div></a>
+            <a href="../../content/chefMenu/index.html"><div class="pdng">
+                <li>Chef's Table Menu</li>
+            </div></a>
+            <a href="../../content/aboutUs/index.html"><div class="pdng">
+                <li>About Us</li>
+            </div></a>
+        </ul>
+    </div>
+
+
+    <div class="main-container">
+    </div>
+
+
+    <!-- Page layout-->
+
+    <h1>Cafeteria Menu</h1>
+
+    <!-- Scroll Buttons -->
+    <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
+    <a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
+
+    <!-- Daily Menu -->
+    <section class="dailyMenu">
+        <div class="menu" >
+            <div id="autogen">
+        <h3>Monday, November 21, 2016</h3>
+        <br>
+        <h2> Lunch Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+
+        <br>
+        <h2> Dinner Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+            </div>
+        </div>
+
+        <div class="menu" >
+            <div id="autogen">
+        <h3>Tuesday, November 22, 2016</h3>
+        <br>
+        <h2> Lunch Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+
+        <br>
+        <h2> Dinner Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+            </div>
+        </div>
+
+        <div class="menu" >
+            <div id="autogen">
+        <h3>Wednesday, November 23, 2016</h3>
+        <br>
+        <h2> Lunch Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+
+        <br>
+        <h2> Dinner Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+            </div>
+        </div>
+
+        <div class="menu" >
+            <div id="autogen">
+        <h3>Thursday, November 24, 2016</h3>
+        <br>
+        <h2> Lunch Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+
+        <br>
+        <h2> Dinner Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+            </div>
+        </div>
+
+        <div class="menu" >
+           <div id="autogen">
+        <h3>Friday, November 25, 2016</h3>
+        <br>
+        <h2> Lunch Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+
+        <br>
+        <h2> Dinner Entree </h2>
+        <h4>Teriyaki salmon filet, garlic fried rice, tempura of maitake mushrooms & squash 3.50. </h4>
+
+        <h2>Sides </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+        <h4>Garlic fried rice 1.50. </h4>
+
+        <h2>Soup </h2>
+        <h4>Shishito peppers & ground almonds 1.50.</h4>
+            </div>
+        </div>
+
+        <script>init();</script>
+    </section>
+    
+    <section class="legend">
+        <h3>Legend:</h3>
+        <dl>
+            <dt><b>[V]</b> <i>Vegetarian</i></dt>
+            <dt><b>[VG]</b> <i>Vegan</i></dt>
+            <dt><b>[GF]</b> <i>Gluten Free</i></dt>
+            <dt><b>[Nuts]</b> <i>May Contain Nuts</i></dt>
+        </dl>
+    </section>
+
+</body>
+
+
+</html>

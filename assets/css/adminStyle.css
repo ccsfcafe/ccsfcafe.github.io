@@ -1,0 +1,47 @@
+.login{
+  width: 300px;
+  height: 230px !important;
+  border: 2px solid;
+
+  text-align: center;
+  margin: 0 auto;
+	border-radius: 20px;
+  padding: 15px;
+}
+#box {
+  border:2px solid;
+  width:300px;
+  height:200px;
+  margin:150px auto 25px auto;
+}
+
+.color{
+  text-align: center;
+}
+.Admin{
+  width: 400px;
+  height: 1100px;
+  border: 2px solid;
+
+  text-align: center;
+  margin: 50px auto;
+	border-radius: 20px;
+  padding: 15px;
+}
+tr{
+	height: 40px;
+}
+
+.nav-Admin-Update-Menu li{
+  list-style: none;
+}
+.nav-Admin-Update-Menu a{
+  position: fixed;
+	right:15px;
+	text-align: right;
+}
+
+#log_btn {
+	width: 150px !important;
+	height: 30px !important;
+}
