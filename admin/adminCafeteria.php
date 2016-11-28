@@ -29,7 +29,6 @@
     </ul>
   </div>
   
-	<hr>
 	<h1>Cafeteria Menu</h1>
 	<form method="POST" class="Admin">
 		<h2 id="date-header">
